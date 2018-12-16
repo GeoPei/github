@@ -1,0 +1,11 @@
+html, head, body, div, span, h1, h2, h3, h4, h5, h6 {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  vertical-align: baseline;
+  background: no-scroll transparent;
+}
+
+.col-12-3 {
+  width: 25%;
+}
